@@ -1,2 +1,2 @@
 # zuniRMC.github.io
-This is a calculator.
+Forex Risk Management Calculator.
